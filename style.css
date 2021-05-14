@@ -1,0 +1,16 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+     background-color:rgb(159, 226, 193);
+}
+#display{
+ color:rgb(233, 42, 74);
+ font-size: 200px;
+ text-align:center;
+ margin-top:16%;
+ display:flex;
+ justify-content:center;
+ align-items:center;   
+}
